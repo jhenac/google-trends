@@ -8,8 +8,8 @@ Data analysis and visualization of several google search trends.
 ## Bitcoin
 ![image](https://user-images.githubusercontent.com/98466796/236608230-1f878805-6a6b-423b-9ffc-39838a725c03.png)
 
-## 2019 Unemployment
+## Up to 2019 Unemployment
 ![image](https://user-images.githubusercontent.com/98466796/236608243-e540c42e-599a-45ed-b984-0a44e494a192.png)
 
-## 2020 Unemployment
+## Up to 2020 Unemployment
 ![image](https://user-images.githubusercontent.com/98466796/236608257-06a28a12-dc62-4443-b107-876ce7f0c4bb.png)
